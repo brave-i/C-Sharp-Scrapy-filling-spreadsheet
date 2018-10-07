@@ -1,0 +1,15 @@
+C:\Testc#\TestMain\TestPDF\bin\Release\TestPDF.exe.config
+C:\Testc#\TestMain\TestPDF\bin\Release\TestPDF.exe
+C:\Testc#\TestMain\TestPDF\bin\Release\TestPDF.pdb
+C:\Testc#\TestMain\TestPDF\bin\Release\Bytescout.PDFExtractor.dll
+C:\Testc#\TestMain\TestPDF\bin\Release\Bytescout.PDFExtractor.OCRExtension.dll
+C:\Testc#\TestMain\TestPDF\bin\Release\Bytescout.Spreadsheet.dll
+C:\Testc#\TestMain\TestPDF\bin\Release\Bytescout.PDFExtractor.xml
+C:\Testc#\TestMain\TestPDF\bin\Release\Bytescout.Spreadsheet.xml
+C:\Testc#\TestMain\TestPDF\obj\Release\TestPDF.Form1.resources
+C:\Testc#\TestMain\TestPDF\obj\Release\TestPDF.Properties.Resources.resources
+C:\Testc#\TestMain\TestPDF\obj\Release\TestPDF.csproj.GenerateResource.cache
+C:\Testc#\TestMain\TestPDF\obj\Release\TestPDF.csproj.CoreCompileInputs.cache
+C:\Testc#\TestMain\TestPDF\obj\Release\TestPDF.csproj.CopyComplete
+C:\Testc#\TestMain\TestPDF\obj\Release\TestPDF.exe
+C:\Testc#\TestMain\TestPDF\obj\Release\TestPDF.pdb
